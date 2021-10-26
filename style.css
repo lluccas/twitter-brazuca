@@ -1,0 +1,15 @@
+.div1 ul li{
+    list-style-type: none;
+    display: flex;
+    margin-top: 10px;
+}
+
+.div1 ul li span{
+    width: 15%;
+
+}
+
+.div1 ul li img{
+    width: 12%;
+    padding: 20px 0px 20px 0px;
+}
