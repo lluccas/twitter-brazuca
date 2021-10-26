@@ -13,3 +13,11 @@
     width: 12%;
     padding: 20px 0px 20px 0px;
 }
+
+.btn{
+    width: 200px;
+    color: white;
+    background-color: rgb(3, 156, 177);
+    border-radius: 50px;
+    margin-left: 30px;
+}
